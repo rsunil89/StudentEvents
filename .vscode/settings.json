@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/cb9af6c9-6c69-44df-8f1b-4782cd957c96/resourceGroups/rg-laravel-Ryan_group-86fe/providers/Microsoft.Web/sites/rg-laravel-Ryan",
+    "appService.deploySubpath": "."
+}
